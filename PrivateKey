@@ -1,0 +1,12 @@
+[Interface]
+PrivateKey = 6E9cW3Qd3ZsT8ZjrvpPcfS8slXJeb4Iv+7VDcDbmlV0=
+Address = 10.10.12.65/32
+
+[Peer]
+PublicKey = 8erpsxnSzdOAp4vUFpw5cr9QZm4pyRcsg6n9qOQ6s10=
+AllowedIPs = 192.168.152.1/24
+Endpoint = 162.55.193.171:51820
+
+
+141.4
+proxmo4 seling
